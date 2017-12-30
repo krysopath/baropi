@@ -1,0 +1,15 @@
+[Unit]
+Description=baropi sensor-api system service
+After=syslog.target network.target mysql.service
+
+[Service]
+Type=simple
+User=baropi
+Group=baropi
+WorkingDirectory=/home/baropi
+ExecStart=/home/baropi/.local/bin/baropi-server
+StandardOutput=syslog
+StandardError=syslog
+
+[Install]
+WantedBy=multi-user.target
