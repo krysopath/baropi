@@ -1,0 +1,12 @@
+Flask==0.12.2
+Flask-RESTful==0.3.6
+itsdangerous==0.24
+Jinja2==2.8
+matplotlib==1.5.1
+numpy==1.11.0
+Pillow==3.1.2
+psutil==3.4.2
+PyMySQL==0.8.0
+PyYAML==3.12
+scipy==1.0.0
+SQLAlchemy==1.2.0
