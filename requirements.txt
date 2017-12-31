@@ -2,6 +2,7 @@ Flask==0.12.2
 Flask-RESTful==0.3.6
 itsdangerous==0.24
 Jinja2==2.8
+matplotlib==1.5.1
 numpy==1.11.0
 Pillow==3.1.2
 psutil==3.4.2
