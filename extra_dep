@@ -1,4 +1,4 @@
-Manual install:
+Manual install for Rasbian on Raspberry Pi 3:
 apt-get install libblas-dev
 apt-get install liblapack-dev
 apt-get install gfortran 
