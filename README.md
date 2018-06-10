@@ -1,1 +1,1 @@
-This is the first commit to the lifecycle code repo.
+This is the first commit to the code repo.
